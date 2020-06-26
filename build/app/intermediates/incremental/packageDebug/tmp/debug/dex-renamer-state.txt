@@ -1,0 +1,4 @@
+#Wed May 06 05:09:30 IST 2020
+base.0=/Users/don_k_jacob/Documents/GitHub/AI_Ads/travel_app_ui/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
